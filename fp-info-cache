@@ -1,4 +1,4 @@
-26755296588093545
+26765873879260968
 2450AT43A100E
 ANTC7020X130N
 2450AT43A100E
@@ -73556,6 +73556,13 @@ capacitor
 2
 2
 No_silkscreen
+C_1210_3225Metric
+Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+No_silkscreen
 Crystal_SMD_3225-4Pin_3.2x2.5mm
 SMD3225/4, Crystal, 3.2x2.5mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://www.txccrystal.com/images/pdf/7m-accuracy.pdf
 
@@ -92588,6 +92595,13 @@ BH-18650-B1BA002
 0
 2
 2
+Personal library
+WS2815A
+
+
+0
+2
+1
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -97180,6 +97194,13 @@ Switch
 0
 4
 4
+SPM6530T-2R2M
+SPM6530
+SPM6530
+Inductor (FeSi Core)
+0
+2
+2
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -99291,6 +99312,27 @@ TPS61023DRL
 SOTFL50P160X60-6N
 DRL0006A
 Integrated Circuit
+0
+6
+6
+TPS561201DDCR
+DDC0006A_L
+
+TPS561201DDCR 
+0
+6
+6
+TPS561201DDCR
+DDC0006A_M
+
+TPS561201DDCR 
+0
+6
+6
+TPS561201DDCR
+DDC0006A_N
+
+TPS561201DDCR 
 0
 6
 6
