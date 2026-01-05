@@ -60,7 +60,7 @@
         {
           "gap": 0.2032,
           "via_gap": 0.2032,
-          "width": 0.2032
+          "width": 0.1582
         }
       ],
       "drc_exclusions": [],
@@ -491,7 +491,7 @@
     "classes": [
       {
         "bus_width": 12,
-        "clearance": 0.2,
+        "clearance": 0.01,
         "diff_pair_gap": 0.25,
         "diff_pair_via_gap": 0.25,
         "diff_pair_width": 0.2,
@@ -509,7 +509,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.01,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -518,7 +518,7 @@
         "name": "Buttons",
         "pcb_color": "rgb(255, 192, 9)",
         "priority": 3,
-        "schematic_color": "rgb(255, 192, 9)",
+        "schematic_color": "rgb(194, 194, 0)",
         "track_width": 0.3,
         "via_diameter": 0.5,
         "via_drill": 0.3,
@@ -526,7 +526,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.01,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -535,7 +535,7 @@
         "name": "I2C",
         "pcb_color": "rgb(255, 137, 0)",
         "priority": 1,
-        "schematic_color": "rgb(255, 137, 0)",
+        "schematic_color": "rgb(0, 194, 194)",
         "track_width": 0.3,
         "via_diameter": 0.5,
         "via_drill": 0.3,
@@ -543,7 +543,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.01,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -552,7 +552,7 @@
         "name": "LEDs",
         "pcb_color": "rgb(0, 213, 255)",
         "priority": 2,
-        "schematic_color": "rgb(0, 213, 255)",
+        "schematic_color": "rgb(194, 0, 194)",
         "track_width": 0.3,
         "via_diameter": 0.5,
         "via_drill": 0.3,
@@ -560,7 +560,7 @@
       },
       {
         "bus_width": 24,
-        "clearance": 0.05,
+        "clearance": 0.01,
         "diff_pair_gap": 0.25,
         "diff_pair_width": 0.2,
         "line_style": 0,
@@ -577,7 +577,7 @@
       },
       {
         "bus_width": 12,
-        "clearance": 0.1,
+        "clearance": 0.01,
         "diff_pair_gap": 0.2,
         "diff_pair_width": 0.2032,
         "line_style": 0,
@@ -586,7 +586,7 @@
         "name": "USB",
         "pcb_color": "rgb(14, 255, 0)",
         "priority": 4,
-        "schematic_color": "rgb(45, 255, 0)",
+        "schematic_color": "rgb(0, 194, 0)",
         "track_width": 0.3,
         "via_diameter": 0.5,
         "via_drill": 0.3,

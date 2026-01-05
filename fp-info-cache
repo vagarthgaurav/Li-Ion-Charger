@@ -1,4 +1,11 @@
-26765873879260968
+26802925727789047
+2450AT18D0100001E
+2450AT18D0100001E
+2450AT18D0100001E-2
+Antenna
+0
+4
+4
 2450AT43A100E
 ANTC7020X130N
 2450AT43A100E
@@ -27,10 +34,24 @@ audio belton reverb
 0
 7
 7
-BQ25616RTW
-QFN50P400X400X80-25N-D
-RTW (S-PWQFN-N24)
-Integrated Circuit
+BQ25616
+WQFN24_RTW_TEX
+
+BQ25616JRTWT 
+0
+25
+25
+BQ25616
+WQFN24_RTW_TEX-L
+
+BQ25616JRTWT 
+0
+34
+25
+BQ25616
+WQFN24_RTW_TEX-M
+
+BQ25616JRTWT 
 0
 25
 25
@@ -69341,6 +69362,34 @@ solder jumper open
 0
 3
 3
+Keebdeck
+Keyboard_4R11C
+
+
+0
+126
+15
+Keebdeck
+Keyboard_4R12C
+
+
+0
+138
+16
+Keebdeck
+Keyboard_5R11C
+
+
+0
+159
+16
+Keebdeck
+Keyboard_6R13C
+
+
+0
+213
+19
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -73534,84 +73583,98 @@ net tie
 0
 4
 4
-No_silkscreen
+No Silkscreen
 C_0402_1005Metric
 Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 C_0603_1608Metric
 Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 C_0805_2012Metric
 Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
 capacitor
 0
 2
 2
-No_silkscreen
+No Silkscreen
+C_1206_3216Metric
+Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+No Silkscreen
 C_1210_3225Metric
 Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 capacitor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 Crystal_SMD_3225-4Pin_3.2x2.5mm
 SMD3225/4, Crystal, 3.2x2.5mm package, SMD, generated with kicad-footprint-generator make_crystal.py, http://www.txccrystal.com/images/pdf/7m-accuracy.pdf
 
 0
 4
 4
-No_silkscreen
+No Silkscreen
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+No Silkscreen
 LED_WS2812B-2020_PLCC4_2.0x2.0mm
 2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
 LED RGB NeoPixel Nano PLCC-4 2020
 0
 4
 4
-No_silkscreen
+No Silkscreen
 L_0402_1005Metric
 Inductor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 inductor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 L_0603_1608Metric
 Inductor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
 inductor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 PinHeader_1x08_P2.54mm_Vertical
 Through hole straight pin header, 1x08, 2.54mm pitch, single row
 Through hole pin header THT 1x08 2.54mm single row
 0
 8
 8
-No_silkscreen
+No Silkscreen
 R_0402_1005Metric
 Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 R_0603_1608Metric
 Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
 0
 2
 2
-No_silkscreen
+No Silkscreen
 R_0805_2012Metric
 Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor
@@ -92596,12 +92659,61 @@ BH-18650-B1BA002
 2
 2
 Personal library
+D_SMA
+Diode SMA (DO-214AC)
+Diode SMA (DO-214AC)
+0
+2
+2
+Personal library
+JST_PH_S3B-PH-K_1x03_P2.00mm_Horizontal
+JST PH series connector, S3B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH horizontal
+0
+3
+3
+Personal library
+LED filament
+
+
+0
+1
+1
+Personal library
+M2 Standoff
+M2 Standoff
+mountinghole M3 DIN965
+0
+1
+1
+Personal library
+SLW6028
+Bourns SRN6028 series SMD inductor
+Bourns SRN6028 SMD inductor
+0
+2
+2
+Personal library
+SPTAF_1_ 2-5_0-EL
+
+
+0
+4
+2
+Personal library
 WS2815A
 
 
 0
 2
 1
+Personal library
+YIYUAN_YTSPS-22E59NL2
+
+
+0
+6
+6
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -97187,6 +97299,27 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+S3B-ZR-3.4_LF__SN
+S3B-ZR-3.4_LF__SN
+S3B-ZR-3.4(LF)(SN)-4
+Connector
+0
+3
+3
+S4B-ZR(LF)(SN)
+S4BZRLFSN
+S4B-ZR(LF)(SN)-1
+Connector
+0
+4
+4
+S5B-ZR(LF)(SN)
+S5BZRLFSN
+S5B-ZR(LF)(SN)-5
+Connector
+0
+5
+5
 SKRPARE010
 SKRPARE010
 4.2mm x 3.2mm x 2.5mm_2024
@@ -99315,6 +99448,20 @@ Integrated Circuit
 0
 6
 6
+TPS61288
+TPS61288
+
+PTPS61288RQQR 
+0
+11
+11
+TPS92360DCKR
+SOT65P210X110-5N
+TPS92360DCKR-
+Integrated Circuit
+0
+5
+5
 TPS561201DDCR
 DDC0006A_L
 
@@ -99344,12 +99491,12 @@ PTPS561246DRLR
 6
 6
 TPS923650D2DRLR
-QFN50P400X400X80-25N-D
-RTW (S-PWQFN-N24)
+SOTFL50P160X60-8N
+DRL0008A
 Integrated Circuit
 0
-25
-25
+8
+8
 TYPE-C-31-M-12
 HRO_TYPE-C-31-M-12
 
